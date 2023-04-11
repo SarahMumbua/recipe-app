@@ -13,7 +13,7 @@ searchButton.addEventListener('click', () => {
           <div class="card mb-3">
             <img class="card-img-top" src="${meal.strMealThumb}" alt="${meal.strMeal}">
             <div class="card-body">
-              <h5 class="card-title">${meal.strMeal}</h5>
+              <h5 class="card-title">Name: ${meal.strMeal}</h5>
               <p class="card-text">Category: ${meal.strCategory}</p>
               <a href="${meal.strSource}" class="btn btn-primary">View Recipe</a>
             </div>
