@@ -17,7 +17,9 @@ searchButton.addEventListener('click', () => {
               <div class="card-body">
                 <h5 class="card-title">Name:${meal.strMeal}</h5>
                 <p class="card-text">Category: ${meal.strCategory}</p>
+                <p class="card-text">Votes: <span class="votes">0</span></p>
                 <a href="#" class="btn btn-primary view-recipe" data-instructions="${instructionsList}">View Recipe</a>
+                <button class="btn btn-success vote-recipe" data-id="${meal.idMeal}">Vote</button>
               </div>
             </div>
           `;
