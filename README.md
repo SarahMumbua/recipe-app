@@ -11,5 +11,7 @@ This is a web project that allows user to search for recipes, display recipes, v
 At the moment there are no known bugs.
 ## Technologies Used
 It was developed using HTML5, JavaScript, Bootstrap and CSS3.
+## Permission to modify
+It was developed using HTML5, JavaScript, Bootstrap and CSS3.
 ### License
 *This project uses MIT license.*
