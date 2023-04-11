@@ -4,7 +4,7 @@
 ## Description
 This is a web project that allows user to search for recipes, display recipes, vote for recipes and show more information about recipe.
 ## Setup/Installation Requirements
-* Clone the project repository into your local machine ie git clone: git@github.com:SarahMumbua/Flatdango.git
+* Clone the project repository into your local machine ie git clone git@github.com:SarahMumbua/recipe-app.git
 * Navigate to index.html file.
 * Open the index.html file using suitable supported browser preferrable Google Chrome.
 ## Known Bugs
